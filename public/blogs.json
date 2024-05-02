@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/5WhpKJy/cover-1.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Thompson",
+      "author_img": "https://i.ibb.co/qWJ5BrM/profile.png",
+      "posted_date": "2024-04-15",
+      "reading_time": 30,
+      "hashtag": [
+        "fantasy",
+        "adventure",
+        "mystery"
+    ]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/fX81SdS/cover-2.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Michael Reynolds",
+      "author_img": "https://i.ibb.co/qWJ5BrM/profile.png",
+      "posted_date": "2024-04-20",
+      "reading_time": 45,
+      "Hashtag": [
+        "fantasy",
+        "adventure",
+        "mystery"
+    ]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/DwJMp6h/cover-3.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/qWJ5BrM/profile.png",
+      "posted_date": "2024-04-25",
+      "reading_time": 60,
+      "hashtag": [
+        "fantasy",
+        "adventure",
+        "mystery"
+    ]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/wgrhFR4/cover-4.jpg",
+      "title": "Into the Abyss",
+      "author": "David Anderson",
+      "author_img": "https://i.ibb.co/qWJ5BrM/profile.png",
+      "posted_date": "2024-04-30",
+      "reading_time": 40,
+      "hashtag": [
+        "fantasy",
+        "adventure",
+        "mystery"
+    ]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/f2s9prM/cover-5.jpg",
+      "title": "Lost in Time",
+      "author": "Rachel Carter",
+      "author_img": "https://i.ibb.co/qWJ5BrM/profile.png",
+      "posted_date": "2024-05-01",
+      "reading_time": 55,
+      "hashtag": [
+        "fantasy",
+        "adventure",
+        "mystery"
+    ]
+    }
+  ]
+  
